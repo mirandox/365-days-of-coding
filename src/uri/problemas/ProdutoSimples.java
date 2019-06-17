@@ -1,3 +1,8 @@
+/***
+ *   Exercício n° 1004 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1004
+ */
+
+
 package uri.problemas;
 
 import java.util.Scanner;
