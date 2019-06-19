@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9acfd62d-4a25-4140-905f-76bdbbd0f30d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/uri/problemas/SalarioComBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uri/problemas/CalculoSimples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,9 +16,9 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uri/problemas/Salario.java">
+        <entry file="file://$PROJECT_DIR$/src/uri/problemas/SalarioComBonus.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="3" />
@@ -31,10 +31,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/uri/problemas/SalarioComBonus.java">
+        <entry file="file://$PROJECT_DIR$/src/uri/problemas/CalculoSimples.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+              <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -67,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/uri/problemas/Diferenca.java" />
         <option value="$PROJECT_DIR$/src/uri/problemas/Salario.java" />
         <option value="$PROJECT_DIR$/src/uri/problemas/SalarioComBonus.java" />
+        <option value="$PROJECT_DIR$/src/uri/problemas/CalculoSimples.java" />
       </list>
     </option>
   </component>
@@ -103,8 +104,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,9 +131,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SalarioComBonus">
-    <configuration name="Diferenca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uri.problemas.Diferenca" />
+  <component name="RunManager" selected="Application.CalculoSimples">
+    <configuration name="CalculoSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uri.problemas.CalculoSimples" />
       <module name="365-days-of-coding" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Media1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uri.problemas.Media1" />
+    <configuration name="Diferenca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uri.problemas.Diferenca" />
       <module name="365-days-of-coding" />
       <extension name="coverage">
         <pattern>
@@ -198,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculoSimples" />
         <item itemvalue="Application.SalarioComBonus" />
         <item itemvalue="Application.Salario" />
         <item itemvalue="Application.Diferenca" />
         <item itemvalue="Application.Media2" />
-        <item itemvalue="Application.Media1" />
       </list>
     </recent_temporary>
   </component>
@@ -220,18 +221,19 @@
       <workItem from="1560279288447" duration="252000" />
       <workItem from="1560451400099" duration="476000" />
       <workItem from="1560780787979" duration="2323000" />
-      <workItem from="1560875711442" duration="289000" />
+      <workItem from="1560875711442" duration="1276000" />
+      <workItem from="1560972827695" duration="329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4507000" />
+    <option name="totallyTimeSpent" value="5823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22145145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,6 +340,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uri/problemas/Salario.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5172" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uri/problemas/SalarioComBonus.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" />
           <folding>
@@ -347,10 +364,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/uri/problemas/SalarioComBonus.java">
+    <entry file="file://$PROJECT_DIR$/src/uri/problemas/CalculoSimples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
