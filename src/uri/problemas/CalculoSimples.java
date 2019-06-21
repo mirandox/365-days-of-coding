@@ -2,7 +2,6 @@
  *   Exercício n° 1010 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1010
  */
 
-
 package uri.problemas;
 
 import java.io.IOException;
